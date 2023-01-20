@@ -1,16 +1,15 @@
 # MemoryPool
 
 A header-only memory pool library implemented in C++.
+一个只有头文件的，C++的内存池库
 
 There are a lot of problems in it, but they will be solved at some point in the future.
+这里面有很多问题，但会在未来被解决 
 
 It's just for learning now, and it may be unsuitable for some conditions.
+现在只是用来学习，并且它并不适用于某且情况 
 
 If you found some problems or have some recommendations, welcome to make an 'Issue'.
-
-一个只有头文件的，C++的内存池库 
-这里面有很多问题，但会在未来被解决 
-现在只是用来学习，并且它并不适用于某且情况 
 如果你发现了一些问题或者有一些建议，欢迎开issue 
 
 # Known problems 已知问题
